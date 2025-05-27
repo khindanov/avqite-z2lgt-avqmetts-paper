@@ -1,0 +1,1856 @@
+ Hamiltonian terms: 127
+ pool dimension: 1089
+ setup_pool 0.01 s
+ pstrings-hh: 7443
+ set_pstrings_hh 4.56 s
+ set_poolh 1.70 s
+ set_pstrings_hp 6.27 s
+ nparams in the initial ansatz: 0
+ calc_mmat circs to run: 0
+ zero fraction of mmat: 0/0 or 0/0
+ calc_mmat 0.00 s
+ calc_e circs to run: 127
+ calc_e 0.69 s
+ calc_e2 circs to run: 7443
+ calc_e2 1.06 s
+ calc_v_pd 0.00 s
+ initial mcLachlan distance: 3.50e+00 pthmax: 0.00
+ calc_poolh circs to run: 112084
+ calc_poolh 2.27 s
+ eval_vpool 2.28 s
+ calc_mmat_pt circs to run: 0
+ eval_mmat_pt 0.00 s
+ add op: [1087]
+ grad: ['-0.250000']
+icyc = 0, dist = 3.25e+00, improving 2.50e-01
+ add op: [1085]
+ grad: ['-0.250000']
+icyc = 1, dist = 3.00e+00, improving 2.50e-01
+ add op: [1084]
+ grad: ['0.250000']
+icyc = 2, dist = 2.75e+00, improving 2.50e-01
+ add op: [1083]
+ grad: ['0.250000']
+icyc = 3, dist = 2.50e+00, improving 2.50e-01
+ add op: [1081]
+ grad: ['0.250000']
+icyc = 4, dist = 2.25e+00, improving 2.50e-01
+ add op: [1078]
+ grad: ['0.250000']
+icyc = 5, dist = 2.00e+00, improving 2.50e-01
+ add op: [1076]
+ grad: ['0.250000']
+icyc = 6, dist = 1.75e+00, improving 2.50e-01
+ add op: [1069]
+ grad: ['0.250000']
+icyc = 7, dist = 1.50e+00, improving 2.50e-01
+ add op: [1067]
+ grad: ['0.250000']
+icyc = 8, dist = 1.25e+00, improving 2.50e-01
+ add op: [1066]
+ grad: ['0.250000']
+icyc = 9, dist = 1.00e+00, improving 2.50e-01
+ add op: [1064]
+ grad: ['0.250000']
+icyc = 10, dist = 7.51e-01, improving 2.50e-01
+ add op: [1062]
+ grad: ['0.250000']
+icyc = 11, dist = 5.01e-01, improving 2.50e-01
+ add op: [1060]
+ grad: ['0.250000']
+icyc = 12, dist = 2.51e-01, improving 2.50e-01
+ add op: [1059]
+ grad: ['0.250000']
+icyc = 13, dist = 1.40e-03, improving 2.50e-01
+ get_mv circs done: 14066
+ number of layers in the ansatz: 14
+ final mcLachlan distance: 1.40e-03
+ add_ops 3.20 s
+ total nontrivial mcircs: 91
+ pthmax: 1.00
+ Zero mmat elements: 91/91
+ one_step 4.98 s
+ ngates: [0, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 0, t = 0.0200, e = 0.77000000, vmax = 2.50e-01 var_h = 3.50e+00
+
+ calc_mmat circs to run: 91
+ zero fraction of mmat: 182/196 or 91/91
+ calc_mmat 1.34 s
+ calc_e circs to run: 127
+ calc_e 1.13 s
+ calc_e2 circs to run: 7443
+ calc_e2 2.62 s
+ calc_v_pd circs to run: 1778
+ calc_v_pd 0.47 s
+ initial mcLachlan distance: 2.30e-03 pthmax: 1.00
+ Zero mmat elements: 91/91
+ total nontrivial mcircs: 0
+ one_step 5.56 s
+ ngates: [0, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 1, t = 0.0399, e = 0.62987343, vmax = 2.51e-01 var_h = 3.52e+00
+
+ calc_mmat circs to run: 0
+ zero fraction of mmat: 182/196 or 91/91
+ calc_mmat 0.00 s
+ calc_e circs to run: 127
+ calc_e 0.06 s
+ calc_e2 circs to run: 7443
+ calc_e2 1.53 s
+ calc_v_pd circs to run: 1778
+ calc_v_pd 0.45 s
+ initial mcLachlan distance: 4.97e-03 pthmax: 1.01
+ Zero mmat elements: 91/91
+ one_step 2.05 s
+ ngates: [0, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 2, t = 0.0598, e = 0.48957632, vmax = 2.52e-01 var_h = 3.53e+00
+
+ calc_mmat circs to run: 0
+ zero fraction of mmat: 182/196 or 91/91
+ calc_mmat 0.00 s
+ calc_e circs to run: 127
+ calc_e 0.12 s
+ calc_e2 circs to run: 7443
+ calc_e2 1.54 s
+ calc_v_pd circs to run: 1778
+ calc_v_pd 0.44 s
+ initial mcLachlan distance: 9.35e-03 pthmax: 1.01
+ Zero mmat elements: 91/91
+ one_step 2.11 s
+ ngates: [0, 14, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 3, t = 0.0796, e = 0.34931044, vmax = 2.53e-01 var_h = 3.55e+00
+
+ calc_mmat circs to run: 0
+ zero fraction of mmat: 182/196 or 91/91
+ calc_mmat 0.00 s
+ calc_e circs to run: 127
+ calc_e 0.12 s
+ calc_e2 circs to run: 7443
+ calc_e2 1.54 s
+ calc_v_pd circs to run: 1778
+ calc_v_pd 0.42 s
+ initial mcLachlan distance: 1.54e-02 pthmax: 1.01
+ calc_poolh circs to run: 112084
+ calc_poolh 22.92 s
+ eval_vpool 22.92 s
+ calc_mmat_pt circs to run: 15246
+ eval_mmat_pt 3.56 s
+ add op: [844]
+ grad: ['0.251666']
+icyc = 0, dist = 1.37e-02, improving 1.69e-03
+ add op: [142]
+ grad: ['-0.252749']
+icyc = 1, dist = 1.23e-02, improving 1.47e-03
+ add op: [44]
+ grad: ['-0.252749']
+icyc = 2, dist = 1.08e-02, improving 1.47e-03
+ add op: [788]
+ grad: ['-0.252750']
+icyc = 3, dist = 9.33e-03, improving 1.46e-03
+ get_mv circs done: 3261
+ number of layers in the ansatz: 18
+ final mcLachlan distance: 9.33e-03
+ add_ops 27.58 s
+ total nontrivial mcircs: 62
+ pthmax: 1.01
+ Zero mmat elements: 149/153
+ one_step 29.72 s
+ ngates: [0, 18, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 4, t = 0.0994, e = 0.20921859, vmax = 2.53e-01 var_h = 3.55e+00
+
+ calc_mmat circs to run: 62
+ zero fraction of mmat: 298/324 or 149/153
+ calc_mmat 0.37 s
+ calc_e circs to run: 127
+ calc_e 0.70 s
+ calc_e2 circs to run: 7443
+ calc_e2 2.80 s
+ calc_v_pd circs to run: 2286
+ calc_v_pd 0.79 s
+ initial mcLachlan distance: 1.37e-02 pthmax: 1.01
+ calc_poolh circs to run: 112084
+ calc_poolh 31.95 s
+ eval_vpool 31.95 s
+ calc_mmat_pt circs to run: 19602
+ eval_mmat_pt 6.31 s
+ add op: [816]
+ grad: ['0.243089']
+icyc = 0, dist = 1.36e-02, improving 6.74e-05
+ add op: [132]
+ grad: ['-0.252836']
+icyc = 1, dist = 1.35e-02, improving 6.35e-05
+ add op: [41]
+ grad: ['-0.252836']
+icyc = 2, dist = 1.35e-02, improving 6.31e-05
+ add op: [1081]
+ grad: ['0.253743']
+icyc = 3, dist = 1.34e-02, improving 5.15e-05
+ add op: [1078]
+ grad: ['0.253743']
+icyc = 4, dist = 1.34e-02, improving 5.15e-05
+ add op: [1076]
+ grad: ['0.253743']
+icyc = 5, dist = 1.33e-02, improving 5.15e-05
+ add op: [1069]
+ grad: ['0.253743']
+icyc = 6, dist = 1.33e-02, improving 5.13e-05
+ add op: [1064]
+ grad: ['0.253743']
+icyc = 7, dist = 1.32e-02, improving 5.17e-05
+ add op: [1062]
+ grad: ['0.253743']
+icyc = 8, dist = 1.32e-02, improving 5.15e-05
+ add op: [1087]
+ grad: ['-0.243877']
+icyc = 9, dist = 1.31e-02, improving 4.76e-05
+ add op: [761]
+ grad: ['-0.251210']
+icyc = 10, dist = 1.31e-02, improving 2.98e-05
+ add op: [1060]
+ grad: ['0.252138']
+icyc = 11, dist = 1.31e-02, improving 1.89e-05
+ add op: [1066]
+ grad: ['0.252138']
+icyc = 12, dist = 1.31e-02, improving 1.84e-05
+ add op: [1018]
+ grad: ['-0.253743']
+icyc = 13, dist = 1.30e-02, improving 1.72e-05
+ add op: [1015]
+ grad: ['-0.253743']
+icyc = 14, dist = 1.30e-02, improving 1.72e-05
+ add op: [1013]
+ grad: ['-0.253743']
+icyc = 15, dist = 1.30e-02, improving 1.71e-05
+ add op: [1006]
+ grad: ['-0.253743']
+icyc = 16, dist = 1.30e-02, improving 1.73e-05
+ add op: [44]
+ grad: ['-0.252835']
+icyc = 17, dist = 1.30e-02, improving 1.66e-05
+ add op: [1001]
+ grad: ['-0.253743']
+icyc = 18, dist = 1.30e-02, improving 1.66e-05
+ add op: [999]
+ grad: ['-0.253743']
+icyc = 19, dist = 1.29e-02, improving 1.77e-05
+ add op: [932]
+ grad: ['-0.243877']
+icyc = 20, dist = 1.29e-02, improving 1.68e-05
+ add op: [788]
+ grad: ['-0.252839']
+icyc = 21, dist = 1.29e-02, improving 1.46e-05
+ add op: [1067]
+ grad: ['0.252138']
+icyc = 22, dist = 1.29e-02, improving 1.29e-05
+ add op: [142]
+ grad: ['-0.252835']
+icyc = 23, dist = 1.29e-02, improving 1.25e-05
+ add op: [1085]
+ grad: ['-0.242253']
+icyc = 24, dist = 1.29e-02, improving 1.05e-05
+ add op: [844]
+ grad: ['0.251322']
+icyc = 25, dist = 1.29e-02, improving 1.46e-05
+ add op: [997]
+ grad: ['-0.252138']
+icyc = 26, dist = 1.28e-02, improving 9.32e-06
+ add op: [898]
+ grad: ['0.253743']
+icyc = 27, dist = 1.28e-02, improving 8.62e-06
+ add op: [895]
+ grad: ['0.253743']
+icyc = 28, dist = 1.28e-02, improving 8.31e-06
+ add op: [893]
+ grad: ['0.253743']
+icyc = 29, dist = 1.28e-02, improving 9.02e-06
+ add op: [886]
+ grad: ['0.253743']
+icyc = 30, dist = 1.28e-02, improving 8.03e-06
+ add op: [881]
+ grad: ['0.253743']
+icyc = 31, dist = 1.28e-02, improving 8.93e-06
+ add op: [879]
+ grad: ['0.253743']
+icyc = 32, dist = 1.28e-02, improving 8.61e-06
+ add op: [928]
+ grad: ['-0.243877']
+icyc = 33, dist = 1.28e-02, improving 7.88e-06
+ add op: [1004]
+ grad: ['-0.252138']
+icyc = 34, dist = 1.28e-02, improving 7.30e-06
+ add op: [1059]
+ grad: ['0.252138']
+icyc = 35, dist = 1.28e-02, improving 6.88e-06
+ add op: [1083]
+ grad: ['0.252145']
+icyc = 36, dist = 1.28e-02, improving 6.69e-06
+ add op: [1077]
+ grad: ['-0.001246']
+icyc = 37, dist = 1.28e-02, improving 6.20e-06
+ add op: [494]
+ grad: ['0.000000']
+icyc = 38, dist = 1.22e-02, improving 5.70e-04
+ add op: [432]
+ grad: ['0.000000']
+icyc = 39, dist = 1.17e-02, improving 5.30e-04
+ add op: [1014]
+ grad: ['0.001246']
+icyc = 40, dist = 1.16e-02, improving 4.10e-05
+ add op: [894]
+ grad: ['-0.001246']
+icyc = 41, dist = 1.16e-02, improving 1.36e-05
+ add op: [678]
+ grad: ['-0.001246']
+icyc = 42, dist = 1.16e-02, improving 7.91e-06
+ add op: [1063]
+ grad: ['0.001246']
+icyc = 43, dist = 1.16e-02, improving 6.21e-06
+ add op: [88]
+ grad: ['0.000000']
+icyc = 44, dist = 1.10e-02, improving 5.71e-04
+ add op: [68]
+ grad: ['0.000000']
+icyc = 45, dist = 1.05e-02, improving 5.30e-04
+ add op: [1000]
+ grad: ['-0.001246']
+icyc = 46, dist = 1.04e-02, improving 4.12e-05
+ add op: [880]
+ grad: ['0.001246']
+icyc = 47, dist = 1.04e-02, improving 1.44e-05
+ add op: [664]
+ grad: ['0.001246']
+icyc = 48, dist = 1.04e-02, improving 7.29e-06
+ add op: [1068]
+ grad: ['-0.001243']
+icyc = 49, dist = 1.04e-02, improving 6.33e-06
+ add op: [188]
+ grad: ['-0.000002']
+icyc = 50, dist = 9.85e-03, improving 5.70e-04
+ get_mv circs done: 53175
+ number of layers in the ansatz: 69
+ final mcLachlan distance: 9.85e-03
+ add_ops 60.32 s
+ total nontrivial mcircs: 2255
+ pthmax: 0.47
+ Zero mmat elements: 2214/2346
+ one_step 66.13 s
+ ngates: [0, 69, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 5, t = 0.1194, e = 0.06917212, vmax = 2.54e-01 var_h = 3.56e+00
+
+ calc_mmat circs to run: 2255
+ zero fraction of mmat: 4404/4761 or 2202/2346
+ calc_mmat 1.43 s
+ calc_e circs to run: 127
+ calc_e 0.47 s
+ calc_e2 circs to run: 7443
+ calc_e2 9.49 s
+ calc_v_pd circs to run: 8763
+ calc_v_pd 11.31 s
+ initial mcLachlan distance: 1.39e-02 pthmax: 0.40
+ calc_poolh circs to run: 112084
+ calc_poolh 148.92 s
+ eval_vpool 148.93 s
+ calc_mmat_pt circs to run: 75141
+ eval_mmat_pt 111.23 s
+ add op: [153]
+ grad: ['-0.000126']
+icyc = 0, dist = 1.31e-02, improving 7.98e-04
+ add op: [1068]
+ grad: ['-0.001662']
+icyc = 1, dist = 1.31e-02, improving 3.65e-05
+ add op: [1005]
+ grad: ['0.001662']
+icyc = 2, dist = 1.31e-02, improving 1.35e-05
+ add op: [1061]
+ grad: ['-0.001795']
+icyc = 3, dist = 1.31e-02, improving 1.20e-05
+ add op: [62]
+ grad: ['-0.000005']
+icyc = 4, dist = 1.22e-02, improving 8.40e-04
+ add op: [48]
+ grad: ['0.000005']
+icyc = 5, dist = 1.14e-02, improving 7.93e-04
+ add op: [998]
+ grad: ['0.001795']
+icyc = 6, dist = 1.14e-02, improving 4.31e-05
+ add op: [878]
+ grad: ['-0.001795']
+icyc = 7, dist = 1.14e-02, improving 1.39e-05
+ add op: [1065]
+ grad: ['-0.001795']
+icyc = 8, dist = 1.14e-02, improving 1.37e-05
+ add op: [96]
+ grad: ['-0.000005']
+icyc = 9, dist = 1.05e-02, improving 8.40e-04
+ add op: [122]
+ grad: ['0.000005']
+icyc = 10, dist = 9.74e-03, improving 7.93e-04
+ get_mv circs done: 10835
+ number of layers in the ansatz: 80
+ final mcLachlan distance: 9.74e-03
+ add_ops 277.05 s
+ total nontrivial mcircs: 3069
+ pthmax: 0.92
+ Zero mmat elements: 2994/3160
+ one_step 300.28 s
+ ngates: [0, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 6, t = 0.1394, e = -0.07278880, vmax = 2.54e-01 var_h = 3.56e+00
+
+ calc_mmat circs to run: 3069
+ zero fraction of mmat: 5988/6400 or 2994/3160
+ calc_mmat 2.24 s
+ calc_e circs to run: 127
+ calc_e 0.57 s
+ calc_e2 circs to run: 7443
+ calc_e2 11.52 s
+ calc_v_pd circs to run: 10160
+ calc_v_pd 15.56 s
+ initial mcLachlan distance: 1.30e-02 pthmax: 0.81
+ calc_poolh circs to run: 112084
+ calc_poolh 180.55 s
+ eval_vpool 180.55 s
+ calc_mmat_pt circs to run: 87120
+ eval_mmat_pt 170.10 s
+ add op: [1065]
+ grad: ['-0.002115']
+icyc = 0, dist = 1.29e-02, improving 3.33e-05
+ add op: [1082]
+ grad: ['-0.002447']
+icyc = 1, dist = 1.29e-02, improving 2.39e-05
+ add op: [657]
+ grad: ['-0.000009']
+icyc = 2, dist = 1.18e-02, improving 1.16e-03
+ add op: [734]
+ grad: ['0.000009']
+icyc = 3, dist = 1.07e-02, improving 1.10e-03
+ add op: [1019]
+ grad: ['0.002447']
+icyc = 4, dist = 1.06e-02, improving 4.48e-05
+ add op: [1086]
+ grad: ['-0.002334']
+icyc = 5, dist = 1.06e-02, improving 2.07e-05
+ add op: [962]
+ grad: ['0.000009']
+icyc = 6, dist = 9.49e-03, improving 1.10e-03
+ get_mv circs done: 6513
+ number of layers in the ansatz: 87
+ final mcLachlan distance: 9.49e-03
+ add_ops 362.82 s
+ total nontrivial mcircs: 3650
+ pthmax: 0.48
+ Zero mmat elements: 3565/3741
+ one_step 393.35 s
+ ngates: [0, 87, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 7, t = 0.1594, e = -0.21488792, vmax = 2.55e-01 var_h = 3.56e+00
+
+ calc_mmat circs to run: 3650
+ zero fraction of mmat: 7130/7569 or 3565/3741
+ calc_mmat 2.49 s
+ calc_e circs to run: 127
+ calc_e 0.63 s
+ calc_e2 circs to run: 7443
+ calc_e2 12.70 s
+ calc_v_pd circs to run: 11049
+ calc_v_pd 18.81 s
+ initial mcLachlan distance: 1.22e-02 pthmax: 0.42
+ calc_poolh circs to run: 112084
+ calc_poolh 198.53 s
+ eval_vpool 198.53 s
+ calc_mmat_pt circs to run: 94743
+ eval_mmat_pt 188.02 s
+ add op: [873]
+ grad: ['0.000205']
+icyc = 0, dist = 1.08e-02, improving 1.38e-03
+ add op: [1086]
+ grad: ['-0.002799']
+icyc = 1, dist = 1.08e-02, improving 3.94e-05
+ add op: [1023]
+ grad: ['0.002799']
+icyc = 2, dist = 1.08e-02, improving 1.34e-05
+ add op: [1082]
+ grad: ['-0.002800']
+icyc = 3, dist = 1.08e-02, improving 1.17e-05
+ add op: [1079]
+ grad: ['0.001618']
+icyc = 4, dist = 1.08e-02, improving 1.05e-05
+ add op: [516]
+ grad: ['0.001618']
+icyc = 5, dist = 9.20e-03, improving 1.56e-03
+ get_mv circs done: 5430
+ number of layers in the ansatz: 93
+ final mcLachlan distance: 9.20e-03
+ add_ops 397.75 s
+ total nontrivial mcircs: 4187
+ pthmax: 0.49
+ Zero mmat elements: 4088/4278
+ one_step 433.03 s
+ ngates: [0, 93, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 8, t = 0.1794, e = -0.35705872, vmax = 2.56e-01 var_h = 3.56e+00
+
+ calc_mmat circs to run: 4187
+ zero fraction of mmat: 8176/8649 or 4088/4278
+ calc_mmat 3.00 s
+ calc_e circs to run: 127
+ calc_e 0.67 s
+ calc_e2 circs to run: 7443
+ calc_e2 13.82 s
+ calc_v_pd circs to run: 11811
+ calc_v_pd 22.40 s
+ initial mcLachlan distance: 1.16e-02 pthmax: 0.44
+ calc_poolh circs to run: 112084
+ calc_poolh 216.60 s
+ eval_vpool 216.60 s
+ calc_mmat_pt circs to run: 101277
+ eval_mmat_pt 218.74 s
+ add op: [452]
+ grad: ['0.255614']
+icyc = 0, dist = 1.16e-02, improving 1.86e-05
+ add op: [1075]
+ grad: ['0.002053']
+icyc = 1, dist = 1.16e-02, improving 1.69e-05
+ add op: [412]
+ grad: ['0.002053']
+icyc = 2, dist = 9.59e-03, improving 1.99e-03
+ get_mv circs done: 2175
+ number of layers in the ansatz: 96
+ final mcLachlan distance: 9.59e-03
+ add_ops 440.23 s
+ total nontrivial mcircs: 4469
+ pthmax: 0.49
+ Zero mmat elements: 4364/4560
+ one_step 480.14 s
+ ngates: [0, 96, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 9, t = 0.1994, e = -0.49922264, vmax = 2.57e-01 var_h = 3.56e+00
+
+ calc_mmat circs to run: 4469
+ zero fraction of mmat: 8728/9216 or 4364/4560
+ calc_mmat 3.64 s
+ calc_e circs to run: 127
+ calc_e 0.70 s
+ calc_e2 circs to run: 7443
+ calc_e2 14.50 s
+ calc_v_pd circs to run: 12192
+ calc_v_pd 24.02 s
+ initial mcLachlan distance: 1.19e-02 pthmax: 0.48
+ calc_poolh circs to run: 112084
+ calc_poolh 227.22 s
+ eval_vpool 227.22 s
+ calc_mmat_pt circs to run: 104544
+ eval_mmat_pt 234.81 s
+ add op: [176]
+ grad: ['0.255868']
+icyc = 0, dist = 1.19e-02, improving 2.66e-05
+ add op: [1070]
+ grad: ['0.002541']
+icyc = 1, dist = 1.18e-02, improving 2.58e-05
+ add op: [201]
+ grad: ['0.002541']
+icyc = 2, dist = 9.37e-03, improving 2.47e-03
+ get_mv circs done: 2175
+ number of layers in the ansatz: 99
+ final mcLachlan distance: 9.37e-03
+ add_ops 467.15 s
+ total nontrivial mcircs: 4760
+ pthmax: 0.49
+ Zero mmat elements: 4649/4851
+ one_step 510.43 s
+ ngates: [0, 99, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 10, t = 0.2194, e = -0.64126335, vmax = 2.58e-01 var_h = 3.56e+00
+
+ calc_mmat circs to run: 4760
+ zero fraction of mmat: 9298/9801 or 4649/4851
+ calc_mmat 3.62 s
+ calc_e circs to run: 127
+ calc_e 0.73 s
+ calc_e2 circs to run: 7443
+ calc_e2 15.15 s
+ calc_v_pd circs to run: 12573
+ calc_v_pd 25.69 s
+ initial mcLachlan distance: 1.15e-02 pthmax: 0.62
+ calc_poolh circs to run: 112084
+ calc_poolh 238.51 s
+ eval_vpool 238.51 s
+ calc_mmat_pt circs to run: 107811
+ eval_mmat_pt 254.38 s
+ add op: [74]
+ grad: ['-0.257052']
+icyc = 0, dist = 1.14e-02, improving 4.62e-05
+ add op: [52]
+ grad: ['0.249474']
+icyc = 1, dist = 1.14e-02, improving 4.12e-05
+ add op: [682]
+ grad: ['0.255762']
+icyc = 2, dist = 1.13e-02, improving 4.00e-05
+ add op: [104]
+ grad: ['0.257046']
+icyc = 3, dist = 1.13e-02, improving 3.93e-05
+ add op: [1080]
+ grad: ['0.003079']
+icyc = 4, dist = 1.13e-02, improving 3.81e-05
+ add op: [632]
+ grad: ['0.003075']
+icyc = 5, dist = 8.26e-03, improving 2.99e-03
+ get_mv circs done: 5430
+ number of layers in the ansatz: 105
+ final mcLachlan distance: 8.26e-03
+ add_ops 506.11 s
+ total nontrivial mcircs: 5369
+ pthmax: 0.62
+ Zero mmat elements: 5225/5460
+ one_step 552.19 s
+ ngates: [0, 105, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 11, t = 0.2394, e = -0.78311769, vmax = 2.59e-01 var_h = 3.55e+00
+
+ calc_mmat circs to run: 5369
+ zero fraction of mmat: 10450/11025 or 5225/5460
+ calc_mmat 4.41 s
+ calc_e circs to run: 127
+ calc_e 0.80 s
+ calc_e2 circs to run: 7443
+ calc_e2 16.43 s
+ calc_v_pd circs to run: 13335
+ calc_v_pd 29.33 s
+ initial mcLachlan distance: 9.83e-03 pthmax: 0.78
+ Zero mmat elements: 5225/5460
+ total nontrivial mcircs: 235
+ one_step 51.05 s
+ ngates: [0, 105, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 12, t = 0.2594, e = -0.92472414, vmax = 2.60e-01 var_h = 3.54e+00
+
+ calc_mmat circs to run: 235
+ zero fraction of mmat: 10450/11025 or 5225/5460
+ calc_mmat 0.80 s
+ calc_e circs to run: 127
+ calc_e 0.74 s
+ calc_e2 circs to run: 7443
+ calc_e2 16.30 s
+ calc_v_pd circs to run: 13335
+ calc_v_pd 29.14 s
+ initial mcLachlan distance: 1.15e-02 pthmax: 0.93
+ calc_poolh circs to run: 112084
+ calc_poolh 256.18 s
+ eval_vpool 256.18 s
+ calc_mmat_pt circs to run: 114345
+ eval_mmat_pt 289.41 s
+ add op: [902]
+ grad: ['-0.223007']
+icyc = 0, dist = 1.14e-02, improving 8.57e-05
+ add op: [473]
+ grad: ['0.257462']
+icyc = 1, dist = 1.13e-02, improving 8.22e-05
+ add op: [164]
+ grad: ['0.247183']
+icyc = 2, dist = 1.13e-02, improving 7.98e-05
+ add op: [1058]
+ grad: ['-0.004186']
+icyc = 3, dist = 1.12e-02, improving 6.98e-05
+ add op: [38]
+ grad: ['-0.004186']
+icyc = 4, dist = 7.13e-03, improving 4.07e-03
+ get_mv circs done: 4346
+ number of layers in the ansatz: 110
+ final mcLachlan distance: 7.13e-03
+ add_ops 556.89 s
+ total nontrivial mcircs: 770
+ pthmax: 0.87
+ Zero mmat elements: 5734/5995
+ one_step 604.58 s
+ ngates: [0, 110, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 13, t = 0.2794, e = -1.06588929, vmax = 2.60e-01 var_h = 3.53e+00
+
+ calc_mmat circs to run: 770
+ zero fraction of mmat: 11468/12100 or 5734/5995
+ calc_mmat 1.23 s
+ calc_e circs to run: 127
+ calc_e 0.84 s
+ calc_e2 circs to run: 7443
+ calc_e2 17.66 s
+ calc_v_pd circs to run: 13970
+ calc_v_pd 32.87 s
+ initial mcLachlan distance: 8.10e-03 pthmax: 1.04
+ Zero mmat elements: 5734/5995
+ total nontrivial mcircs: 261
+ one_step 52.65 s
+ ngates: [0, 110, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 14, t = 0.2986, e = -1.20668595, vmax = 2.61e-01 var_h = 3.52e+00
+
+ calc_mmat circs to run: 261
+ zero fraction of mmat: 11468/12100 or 5734/5995
+ calc_mmat 0.88 s
+ calc_e circs to run: 127
+ calc_e 0.83 s
+ calc_e2 circs to run: 7443
+ calc_e2 17.57 s
+ calc_v_pd circs to run: 13970
+ calc_v_pd 32.69 s
+ initial mcLachlan distance: 9.08e-03 pthmax: 1.18
+ Zero mmat elements: 5734/5995
+ one_step 51.98 s
+ ngates: [0, 110, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 15, t = 0.3156, e = -1.34171139, vmax = 2.62e-01 var_h = 3.50e+00
+
+ calc_mmat circs to run: 261
+ zero fraction of mmat: 11468/12100 or 5734/5995
+ calc_mmat 0.47 s
+ calc_e circs to run: 127
+ calc_e 0.81 s
+ calc_e2 circs to run: 7443
+ calc_e2 17.48 s
+ calc_v_pd circs to run: 13970
+ calc_v_pd 32.72 s
+ initial mcLachlan distance: 9.98e-03 pthmax: 1.27
+ Zero mmat elements: 5734/5995
+ one_step 51.49 s
+ ngates: [0, 110, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 16, t = 0.3313, e = -1.46038960, vmax = 2.62e-01 var_h = 3.49e+00
+
+ calc_mmat circs to run: 261
+ zero fraction of mmat: 11468/12100 or 5734/5995
+ calc_mmat 0.47 s
+ calc_e circs to run: 127
+ calc_e 0.82 s
+ calc_e2 circs to run: 7443
+ calc_e2 17.52 s
+ calc_v_pd circs to run: 13970
+ calc_v_pd 32.66 s
+ initial mcLachlan distance: 1.09e-02 pthmax: 1.34
+ calc_poolh circs to run: 112084
+ calc_poolh 277.09 s
+ eval_vpool 277.10 s
+ calc_mmat_pt circs to run: 119790
+ eval_mmat_pt 327.40 s
+ add op: [122]
+ grad: ['0.000635']
+icyc = 0, dist = 1.06e-02, improving 2.93e-04
+ add op: [734]
+ grad: ['0.000592']
+icyc = 1, dist = 1.03e-02, improving 2.38e-04
+ add op: [62]
+ grad: ['0.000056']
+icyc = 2, dist = 1.01e-02, improving 1.95e-04
+ add op: [932]
+ grad: ['-0.224444']
+icyc = 3, dist = 9.98e-03, improving 1.72e-04
+ get_mv circs done: 3261
+ number of layers in the ansatz: 114
+ final mcLachlan distance: 9.98e-03
+ add_ops 613.73 s
+ total nontrivial mcircs: 707
+ pthmax: 1.37
+ Zero mmat elements: 6135/6441
+ one_step 666.07 s
+ ngates: [0, 114, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 17, t = 0.3460, e = -1.56956426, vmax = 2.63e-01 var_h = 3.47e+00
+
+ calc_mmat circs to run: 707
+ zero fraction of mmat: 12270/12996 or 6135/6441
+ calc_mmat 1.15 s
+ calc_e circs to run: 127
+ calc_e 0.88 s
+ calc_e2 circs to run: 7443
+ calc_e2 18.62 s
+ calc_v_pd circs to run: 14478
+ calc_v_pd 36.52 s
+ initial mcLachlan distance: 1.05e-02 pthmax: 1.37
+ calc_poolh circs to run: 112084
+ calc_poolh 296.53 s
+ eval_vpool 296.54 s
+ calc_mmat_pt circs to run: 124146
+ eval_mmat_pt 361.12 s
+ add op: [88]
+ grad: ['-0.000230']
+icyc = 0, dist = 1.03e-02, improving 1.86e-04
+ add op: [1088]
+ grad: ['0.006771']
+icyc = 1, dist = 1.01e-02, improving 1.83e-04
+ add op: [993]
+ grad: ['-0.006771']
+icyc = 2, dist = 3.57e-03, improving 6.54e-03
+ get_mv circs done: 2175
+ number of layers in the ansatz: 117
+ final mcLachlan distance: 3.57e-03
+ add_ops 664.23 s
+ total nontrivial mcircs: 1052
+ pthmax: 1.34
+ Zero mmat elements: 6460/6786
+ one_step 721.94 s
+ ngates: [0, 117, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 18, t = 0.3608, e = -1.67086029, vmax = 2.63e-01 var_h = 3.46e+00
+
+ calc_mmat circs to run: 1052
+ zero fraction of mmat: 12920/13689 or 6460/6786
+ calc_mmat 1.90 s
+ calc_e circs to run: 127
+ calc_e 0.92 s
+ calc_e2 circs to run: 7443
+ calc_e2 19.00 s
+ calc_v_pd circs to run: 14859
+ calc_v_pd 38.58 s
+ initial mcLachlan distance: 3.48e-03 pthmax: 1.35
+ Zero mmat elements: 6460/6786
+ total nontrivial mcircs: 326
+ one_step 60.86 s
+ ngates: [0, 117, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 19, t = 0.3757, e = -1.77352384, vmax = 2.64e-01 var_h = 3.44e+00
+
+ calc_mmat circs to run: 326
+ zero fraction of mmat: 12920/13689 or 6460/6786
+ calc_mmat 0.60 s
+ calc_e circs to run: 127
+ calc_e 0.90 s
+ calc_e2 circs to run: 7443
+ calc_e2 19.05 s
+ calc_v_pd circs to run: 14859
+ calc_v_pd 38.60 s
+ initial mcLachlan distance: 3.44e-03 pthmax: 1.35
+ Zero mmat elements: 6460/6786
+ one_step 59.16 s
+ ngates: [0, 117, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 20, t = 0.3905, e = -1.87548516, vmax = 2.64e-01 var_h = 3.43e+00
+
+ calc_mmat circs to run: 326
+ zero fraction of mmat: 12920/13689 or 6460/6786
+ calc_mmat 0.56 s
+ calc_e circs to run: 127
+ calc_e 0.93 s
+ calc_e2 circs to run: 7443
+ calc_e2 19.02 s
+ calc_v_pd circs to run: 14859
+ calc_v_pd 38.55 s
+ initial mcLachlan distance: 3.45e-03 pthmax: 1.33
+ Zero mmat elements: 6460/6786
+ one_step 59.06 s
+ ngates: [0, 117, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 21, t = 0.4055, e = -1.97687216, vmax = 2.65e-01 var_h = 3.41e+00
+
+ calc_mmat circs to run: 326
+ zero fraction of mmat: 12920/13689 or 6460/6786
+ calc_mmat 0.56 s
+ calc_e circs to run: 127
+ calc_e 0.92 s
+ calc_e2 circs to run: 7443
+ calc_e2 19.21 s
+ calc_v_pd circs to run: 14859
+ calc_v_pd 38.58 s
+ initial mcLachlan distance: 3.50e-03 pthmax: 1.30
+ Zero mmat elements: 6460/6786
+ one_step 59.29 s
+ ngates: [0, 117, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 22, t = 0.4209, e = -2.07910410, vmax = 2.65e-01 var_h = 3.39e+00
+
+ calc_mmat circs to run: 326
+ zero fraction of mmat: 12920/13689 or 6460/6786
+ calc_mmat 0.57 s
+ calc_e circs to run: 127
+ calc_e 0.93 s
+ calc_e2 circs to run: 7443
+ calc_e2 19.09 s
+ calc_v_pd circs to run: 14859
+ calc_v_pd 38.60 s
+ initial mcLachlan distance: 3.61e-03 pthmax: 1.26
+ Zero mmat elements: 6460/6786
+ one_step 59.19 s
+ ngates: [0, 117, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 23, t = 0.4368, e = -2.18323593, vmax = 2.66e-01 var_h = 3.37e+00
+
+ calc_mmat circs to run: 326
+ zero fraction of mmat: 12920/13689 or 6460/6786
+ calc_mmat 0.61 s
+ calc_e circs to run: 127
+ calc_e 0.91 s
+ calc_e2 circs to run: 7443
+ calc_e2 19.06 s
+ calc_v_pd circs to run: 14859
+ calc_v_pd 38.85 s
+ initial mcLachlan distance: 3.77e-03 pthmax: 1.21
+ Zero mmat elements: 6460/6786
+ one_step 59.45 s
+ ngates: [0, 117, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 24, t = 0.4533, e = -2.29001698, vmax = 2.66e-01 var_h = 3.35e+00
+
+ calc_mmat circs to run: 326
+ zero fraction of mmat: 12920/13689 or 6460/6786
+ calc_mmat 0.56 s
+ calc_e circs to run: 127
+ calc_e 0.90 s
+ calc_e2 circs to run: 7443
+ calc_e2 19.02 s
+ calc_v_pd circs to run: 14859
+ calc_v_pd 38.80 s
+ initial mcLachlan distance: 4.00e-03 pthmax: 1.16
+ Zero mmat elements: 6460/6786
+ one_step 59.29 s
+ ngates: [0, 117, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 25, t = 0.4706, e = -2.40009484, vmax = 2.67e-01 var_h = 3.32e+00
+
+ calc_mmat circs to run: 326
+ zero fraction of mmat: 12920/13689 or 6460/6786
+ calc_mmat 0.55 s
+ calc_e circs to run: 127
+ calc_e 0.90 s
+ calc_e2 circs to run: 7443
+ calc_e2 19.12 s
+ calc_v_pd circs to run: 14859
+ calc_v_pd 38.84 s
+ initial mcLachlan distance: 4.29e-03 pthmax: 1.17
+ Zero mmat elements: 6460/6786
+ one_step 59.41 s
+ ngates: [0, 117, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 26, t = 0.4877, e = -2.51408040, vmax = 2.67e-01 var_h = 3.30e+00
+
+ calc_mmat circs to run: 326
+ zero fraction of mmat: 12920/13689 or 6460/6786
+ calc_mmat 0.57 s
+ calc_e circs to run: 127
+ calc_e 0.93 s
+ calc_e2 circs to run: 7443
+ calc_e2 19.12 s
+ calc_v_pd circs to run: 14859
+ calc_v_pd 38.68 s
+ initial mcLachlan distance: 4.65e-03 pthmax: 1.17
+ Zero mmat elements: 6460/6786
+ one_step 59.29 s
+ ngates: [0, 117, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 27, t = 0.5048, e = -2.62664245, vmax = 2.67e-01 var_h = 3.27e+00
+
+ calc_mmat circs to run: 326
+ zero fraction of mmat: 12920/13689 or 6460/6786
+ calc_mmat 0.58 s
+ calc_e circs to run: 127
+ calc_e 0.93 s
+ calc_e2 circs to run: 7443
+ calc_e2 19.19 s
+ calc_v_pd circs to run: 14859
+ calc_v_pd 38.61 s
+ initial mcLachlan distance: 5.08e-03 pthmax: 1.16
+ Zero mmat elements: 6460/6786
+ one_step 59.32 s
+ ngates: [0, 117, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 28, t = 0.5221, e = -2.73828698, vmax = 2.67e-01 var_h = 3.24e+00
+
+ calc_mmat circs to run: 326
+ zero fraction of mmat: 12920/13689 or 6460/6786
+ calc_mmat 0.57 s
+ calc_e circs to run: 127
+ calc_e 0.92 s
+ calc_e2 circs to run: 7443
+ calc_e2 19.15 s
+ calc_v_pd circs to run: 14859
+ calc_v_pd 38.59 s
+ initial mcLachlan distance: 5.59e-03 pthmax: 1.16
+ Zero mmat elements: 6460/6786
+ one_step 59.23 s
+ ngates: [0, 117, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 29, t = 0.5394, e = -2.84944720, vmax = 2.68e-01 var_h = 3.21e+00
+
+ calc_mmat circs to run: 326
+ zero fraction of mmat: 12920/13689 or 6460/6786
+ calc_mmat 0.63 s
+ calc_e circs to run: 127
+ calc_e 0.93 s
+ calc_e2 circs to run: 7443
+ calc_e2 19.11 s
+ calc_v_pd circs to run: 14859
+ calc_v_pd 38.62 s
+ initial mcLachlan distance: 6.17e-03 pthmax: 1.16
+ Zero mmat elements: 6460/6786
+ one_step 59.30 s
+ ngates: [0, 117, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 30, t = 0.5567, e = -2.95993056, vmax = 2.68e-01 var_h = 3.18e+00
+
+ calc_mmat circs to run: 326
+ zero fraction of mmat: 12920/13689 or 6460/6786
+ calc_mmat 0.59 s
+ calc_e circs to run: 127
+ calc_e 0.93 s
+ calc_e2 circs to run: 7443
+ calc_e2 19.07 s
+ calc_v_pd circs to run: 14859
+ calc_v_pd 38.51 s
+ initial mcLachlan distance: 6.84e-03 pthmax: 1.15
+ Zero mmat elements: 6460/6786
+ one_step 59.11 s
+ ngates: [0, 117, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 31, t = 0.5740, e = -3.06936816, vmax = 2.68e-01 var_h = 3.15e+00
+
+ calc_mmat circs to run: 326
+ zero fraction of mmat: 12920/13689 or 6460/6786
+ calc_mmat 0.60 s
+ calc_e circs to run: 127
+ calc_e 0.92 s
+ calc_e2 circs to run: 7443
+ calc_e2 19.16 s
+ calc_v_pd circs to run: 14859
+ calc_v_pd 38.51 s
+ initial mcLachlan distance: 7.59e-03 pthmax: 1.15
+ Zero mmat elements: 6460/6786
+ one_step 59.20 s
+ ngates: [0, 117, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 32, t = 0.5913, e = -3.17779506, vmax = 2.68e-01 var_h = 3.12e+00
+
+ calc_mmat circs to run: 326
+ zero fraction of mmat: 12920/13689 or 6460/6786
+ calc_mmat 0.53 s
+ calc_e circs to run: 127
+ calc_e 0.90 s
+ calc_e2 circs to run: 7443
+ calc_e2 19.19 s
+ calc_v_pd circs to run: 14859
+ calc_v_pd 38.49 s
+ initial mcLachlan distance: 8.43e-03 pthmax: 1.17
+ Zero mmat elements: 6460/6786
+ one_step 59.11 s
+ ngates: [0, 117, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 33, t = 0.6085, e = -3.28520787, vmax = 2.67e-01 var_h = 3.08e+00
+
+ calc_mmat circs to run: 326
+ zero fraction of mmat: 12920/13689 or 6460/6786
+ calc_mmat 0.57 s
+ calc_e circs to run: 127
+ calc_e 0.90 s
+ calc_e2 circs to run: 7443
+ calc_e2 19.16 s
+ calc_v_pd circs to run: 14859
+ calc_v_pd 38.67 s
+ initial mcLachlan distance: 9.36e-03 pthmax: 1.19
+ Zero mmat elements: 6460/6786
+ one_step 59.31 s
+ ngates: [0, 117, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 34, t = 0.6253, e = -3.39026125, vmax = 2.67e-01 var_h = 3.05e+00
+
+ calc_mmat circs to run: 326
+ zero fraction of mmat: 12920/13689 or 6460/6786
+ calc_mmat 0.54 s
+ calc_e circs to run: 127
+ calc_e 0.93 s
+ calc_e2 circs to run: 7443
+ calc_e2 19.09 s
+ calc_v_pd circs to run: 14859
+ calc_v_pd 38.63 s
+ initial mcLachlan distance: 1.03e-02 pthmax: 1.21
+ calc_poolh circs to run: 112084
+ calc_poolh 300.36 s
+ eval_vpool 300.37 s
+ calc_mmat_pt circs to run: 127413
+ eval_mmat_pt 380.26 s
+ add op: [44]
+ grad: ['-0.201200']
+icyc = 0, dist = 9.17e-03, improving 1.18e-03
+ get_mv circs done: 0
+ number of layers in the ansatz: 118
+ final mcLachlan distance: 9.17e-03
+ add_ops 680.68 s
+ total nontrivial mcircs: 443
+ pthmax: 1.21
+ Zero mmat elements: 6568/6903
+ one_step 739.88 s
+ ngates: [0, 118, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 35, t = 0.6419, e = -3.49214725, vmax = 2.67e-01 var_h = 3.01e+00
+
+ calc_mmat circs to run: 443
+ zero fraction of mmat: 13136/13924 or 6568/6903
+ calc_mmat 1.17 s
+ calc_e circs to run: 127
+ calc_e 0.97 s
+ calc_e2 circs to run: 7443
+ calc_e2 19.35 s
+ calc_v_pd circs to run: 14986
+ calc_v_pd 39.57 s
+ initial mcLachlan distance: 1.00e-02 pthmax: 1.23
+ calc_poolh circs to run: 112084
+ calc_poolh 304.13 s
+ eval_vpool 304.14 s
+ calc_mmat_pt circs to run: 128502
+ eval_mmat_pt 389.29 s
+ add op: [81]
+ grad: ['-0.245747']
+icyc = 0, dist = 8.96e-03, improving 1.06e-03
+ get_mv circs done: 0
+ number of layers in the ansatz: 119
+ final mcLachlan distance: 8.96e-03
+ add_ops 693.47 s
+ total nontrivial mcircs: 561
+ pthmax: 1.63
+ Zero mmat elements: 6673/7021
+ one_step 754.56 s
+ ngates: [0, 119, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 36, t = 0.6541, e = -3.59120250, vmax = 2.67e-01 var_h = 2.98e+00
+
+ calc_mmat circs to run: 561
+ zero fraction of mmat: 13346/14161 or 6673/7021
+ calc_mmat 1.38 s
+ calc_e circs to run: 127
+ calc_e 0.94 s
+ calc_e2 circs to run: 7443
+ calc_e2 19.58 s
+ calc_v_pd circs to run: 15113
+ calc_v_pd 40.81 s
+ initial mcLachlan distance: 9.45e-03 pthmax: 1.64
+ Zero mmat elements: 6673/7021
+ total nontrivial mcircs: 348
+ one_step 63.15 s
+ ngates: [0, 119, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 37, t = 0.6663, e = -3.66377711, vmax = 2.66e-01 var_h = 2.95e+00
+
+ calc_mmat circs to run: 348
+ zero fraction of mmat: 13346/14161 or 6673/7021
+ calc_mmat 0.77 s
+ calc_e circs to run: 127
+ calc_e 0.92 s
+ calc_e2 circs to run: 7443
+ calc_e2 19.75 s
+ calc_v_pd circs to run: 15113
+ calc_v_pd 40.94 s
+ initial mcLachlan distance: 9.96e-03 pthmax: 1.64
+ Zero mmat elements: 6673/7021
+ one_step 62.39 s
+ ngates: [0, 119, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 38, t = 0.6785, e = -3.73543782, vmax = 2.66e-01 var_h = 2.93e+00
+
+ calc_mmat circs to run: 348
+ zero fraction of mmat: 13346/14161 or 6673/7021
+ calc_mmat 0.63 s
+ calc_e circs to run: 127
+ calc_e 0.92 s
+ calc_e2 circs to run: 7443
+ calc_e2 19.63 s
+ calc_v_pd circs to run: 15113
+ calc_v_pd 40.64 s
+ initial mcLachlan distance: 1.05e-02 pthmax: 1.64
+ calc_poolh circs to run: 112084
+ calc_poolh 308.86 s
+ eval_vpool 308.86 s
+ calc_mmat_pt circs to run: 129591
+ eval_mmat_pt 396.08 s
+ add op: [6]
+ grad: ['0.026538']
+icyc = 0, dist = 9.82e-03, improving 6.76e-04
+ get_mv circs done: 0
+ number of layers in the ansatz: 120
+ final mcLachlan distance: 9.82e-03
+ add_ops 705.00 s
+ total nontrivial mcircs: 467
+ pthmax: 1.70
+ Zero mmat elements: 6768/7140
+ one_step 766.84 s
+ ngates: [1, 119, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 39, t = 0.6903, e = -3.80636436, vmax = 2.66e-01 var_h = 2.90e+00
+
+ calc_mmat circs to run: 467
+ zero fraction of mmat: 13536/14400 or 6768/7140
+ calc_mmat 1.26 s
+ calc_e circs to run: 127
+ calc_e 0.97 s
+ calc_e2 circs to run: 7443
+ calc_e2 19.67 s
+ calc_v_pd circs to run: 15240
+ calc_v_pd 40.60 s
+ initial mcLachlan distance: 1.03e-02 pthmax: 1.69
+ calc_poolh circs to run: 112084
+ calc_poolh 309.71 s
+ eval_vpool 309.71 s
+ calc_mmat_pt circs to run: 130680
+ eval_mmat_pt 408.86 s
+ add op: [36]
+ grad: ['0.190423']
+icyc = 0, dist = 9.62e-03, improving 7.17e-04
+ get_mv circs done: 0
+ number of layers in the ansatz: 121
+ final mcLachlan distance: 9.62e-03
+ add_ops 718.63 s
+ total nontrivial mcircs: 587
+ pthmax: 1.65
+ Zero mmat elements: 6877/7260
+ one_step 781.15 s
+ ngates: [1, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 40, t = 0.7024, e = -3.87405204, vmax = 2.65e-01 var_h = 2.88e+00
+
+ calc_mmat circs to run: 587
+ zero fraction of mmat: 13754/14641 or 6877/7260
+ calc_mmat 1.41 s
+ calc_e circs to run: 127
+ calc_e 0.97 s
+ calc_e2 circs to run: 7443
+ calc_e2 20.06 s
+ calc_v_pd circs to run: 15367
+ calc_v_pd 41.63 s
+ initial mcLachlan distance: 1.01e-02 pthmax: 1.63
+ calc_poolh circs to run: 112084
+ calc_poolh 312.72 s
+ eval_vpool 312.73 s
+ calc_mmat_pt circs to run: 131769
+ eval_mmat_pt 408.73 s
+ add op: [87]
+ grad: ['-0.185066']
+icyc = 0, dist = 9.36e-03, improving 7.23e-04
+ get_mv circs done: 0
+ number of layers in the ansatz: 122
+ final mcLachlan distance: 9.36e-03
+ add_ops 721.52 s
+ total nontrivial mcircs: 708
+ pthmax: 1.68
+ Zero mmat elements: 6967/7381
+ one_step 786.08 s
+ ngates: [1, 121, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 41, t = 0.7143, e = -3.94341171, vmax = 2.65e-01 var_h = 2.85e+00
+
+ calc_mmat circs to run: 708
+ zero fraction of mmat: 13934/14884 or 6967/7381
+ calc_mmat 1.18 s
+ calc_e circs to run: 127
+ calc_e 0.99 s
+ calc_e2 circs to run: 7443
+ calc_e2 20.41 s
+ calc_v_pd circs to run: 15494
+ calc_v_pd 42.54 s
+ initial mcLachlan distance: 9.76e-03 pthmax: 1.68
+ Zero mmat elements: 6967/7381
+ total nontrivial mcircs: 414
+ one_step 65.68 s
+ ngates: [1, 121, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 42, t = 0.7263, e = -4.01086408, vmax = 2.64e-01 var_h = 2.82e+00
+
+ calc_mmat circs to run: 414
+ zero fraction of mmat: 13934/14884 or 6967/7381
+ calc_mmat 0.86 s
+ calc_e circs to run: 127
+ calc_e 0.94 s
+ calc_e2 circs to run: 7443
+ calc_e2 20.36 s
+ calc_v_pd circs to run: 15494
+ calc_v_pd 42.74 s
+ initial mcLachlan distance: 1.02e-02 pthmax: 1.68
+ calc_poolh circs to run: 112084
+ calc_poolh 319.45 s
+ eval_vpool 319.45 s
+ calc_mmat_pt circs to run: 132858
+ eval_mmat_pt 422.09 s
+ add op: [153]
+ grad: ['0.004966']
+icyc = 0, dist = 9.67e-03, improving 5.11e-04
+ get_mv circs done: 0
+ number of layers in the ansatz: 123
+ final mcLachlan distance: 9.67e-03
+ add_ops 741.59 s
+ total nontrivial mcircs: 536
+ pthmax: 1.68
+ Zero mmat elements: 7079/7503
+ one_step 806.51 s
+ ngates: [1, 122, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 43, t = 0.7382, e = -4.07767154, vmax = 2.64e-01 var_h = 2.80e+00
+
+ calc_mmat circs to run: 536
+ zero fraction of mmat: 14158/15129 or 7079/7503
+ calc_mmat 1.37 s
+ calc_e circs to run: 127
+ calc_e 1.00 s
+ calc_e2 circs to run: 7443
+ calc_e2 20.44 s
+ calc_v_pd circs to run: 15621
+ calc_v_pd 43.21 s
+ initial mcLachlan distance: 1.01e-02 pthmax: 1.67
+ calc_poolh circs to run: 112084
+ calc_poolh 321.62 s
+ eval_vpool 321.62 s
+ calc_mmat_pt circs to run: 133947
+ eval_mmat_pt 426.82 s
+ add op: [561]
+ grad: ['-0.019002']
+icyc = 0, dist = 9.67e-03, improving 4.57e-04
+ get_mv circs done: 0
+ number of layers in the ansatz: 124
+ final mcLachlan distance: 9.67e-03
+ add_ops 748.49 s
+ total nontrivial mcircs: 659
+ pthmax: 1.67
+ Zero mmat elements: 7200/7626
+ one_step 814.92 s
+ ngates: [1, 123, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 44, t = 0.7502, e = -4.14393387, vmax = 2.63e-01 var_h = 2.77e+00
+
+ calc_mmat circs to run: 659
+ zero fraction of mmat: 14400/15376 or 7200/7626
+ calc_mmat 1.18 s
+ calc_e circs to run: 127
+ calc_e 0.99 s
+ calc_e2 circs to run: 7443
+ calc_e2 20.72 s
+ calc_v_pd circs to run: 15748
+ calc_v_pd 44.26 s
+ initial mcLachlan distance: 1.01e-02 pthmax: 1.66
+ calc_poolh circs to run: 112084
+ calc_poolh 319.17 s
+ eval_vpool 319.17 s
+ calc_mmat_pt circs to run: 135036
+ eval_mmat_pt 426.28 s
+ add op: [38]
+ grad: ['-0.013314']
+icyc = 0, dist = 9.70e-03, improving 4.34e-04
+ get_mv circs done: 0
+ number of layers in the ansatz: 125
+ final mcLachlan distance: 9.70e-03
+ add_ops 745.51 s
+ total nontrivial mcircs: 783
+ pthmax: 1.63
+ Zero mmat elements: 7313/7750
+ one_step 812.68 s
+ ngates: [1, 124, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 45, t = 0.7624, e = -4.20973332, vmax = 2.63e-01 var_h = 2.74e+00
+
+ calc_mmat circs to run: 783
+ zero fraction of mmat: 14626/15625 or 7313/7750
+ calc_mmat 1.78 s
+ calc_e circs to run: 127
+ calc_e 1.02 s
+ calc_e2 circs to run: 7443
+ calc_e2 21.13 s
+ calc_v_pd circs to run: 15875
+ calc_v_pd 44.54 s
+ initial mcLachlan distance: 1.01e-02 pthmax: 1.61
+ calc_poolh circs to run: 112084
+ calc_poolh 320.78 s
+ eval_vpool 320.79 s
+ calc_mmat_pt circs to run: 136125
+ eval_mmat_pt 433.12 s
+ add op: [873]
+ grad: ['-0.003393']
+icyc = 0, dist = 9.70e-03, improving 4.34e-04
+ get_mv circs done: 0
+ number of layers in the ansatz: 126
+ final mcLachlan distance: 9.70e-03
+ add_ops 753.97 s
+ total nontrivial mcircs: 908
+ pthmax: 1.61
+ Zero mmat elements: 7428/7875
+ one_step 822.46 s
+ ngates: [1, 125, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 46, t = 0.7748, e = -4.27653959, vmax = 2.62e-01 var_h = 2.71e+00
+
+ calc_mmat circs to run: 908
+ zero fraction of mmat: 14856/15876 or 7428/7875
+ calc_mmat 1.95 s
+ calc_e circs to run: 127
+ calc_e 1.01 s
+ calc_e2 circs to run: 7443
+ calc_e2 21.04 s
+ calc_v_pd circs to run: 16002
+ calc_v_pd 44.95 s
+ initial mcLachlan distance: 1.02e-02 pthmax: 1.59
+ calc_poolh circs to run: 112084
+ calc_poolh 323.59 s
+ eval_vpool 323.59 s
+ calc_mmat_pt circs to run: 137214
+ eval_mmat_pt 442.88 s
+ add op: [584]
+ grad: ['-0.020365']
+icyc = 0, dist = 9.84e-03, improving 3.40e-04
+ get_mv circs done: 0
+ number of layers in the ansatz: 127
+ final mcLachlan distance: 9.84e-03
+ add_ops 766.52 s
+ total nontrivial mcircs: 1034
+ pthmax: 1.59
+ Zero mmat elements: 7550/8001
+ one_step 835.99 s
+ ngates: [1, 126, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 47, t = 0.7874, e = -4.34340275, vmax = 2.61e-01 var_h = 2.69e+00
+
+ calc_mmat circs to run: 1034
+ zero fraction of mmat: 15100/16129 or 7550/8001
+ calc_mmat 1.69 s
+ calc_e circs to run: 127
+ calc_e 1.03 s
+ calc_e2 circs to run: 7443
+ calc_e2 21.22 s
+ calc_v_pd circs to run: 16129
+ calc_v_pd 46.35 s
+ initial mcLachlan distance: 1.03e-02 pthmax: 1.57
+ calc_poolh circs to run: 112084
+ calc_poolh 327.85 s
+ eval_vpool 327.86 s
+ calc_mmat_pt circs to run: 138303
+ eval_mmat_pt 453.62 s
+ add op: [81]
+ grad: ['-0.231738']
+icyc = 0, dist = 1.00e-02, improving 3.09e-04
+ add op: [452]
+ grad: ['0.236318']
+icyc = 1, dist = 9.82e-03, improving 2.16e-04
+ get_mv circs done: 1088
+ number of layers in the ansatz: 129
+ final mcLachlan distance: 9.82e-03
+ add_ops 785.24 s
+ total nontrivial mcircs: 1289
+ pthmax: 1.19
+ Zero mmat elements: 7760/8256
+ one_step 855.95 s
+ ngates: [1, 128, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 48, t = 0.8042, e = -4.41038922, vmax = 2.60e-01 var_h = 2.66e+00
+
+ calc_mmat circs to run: 1289
+ zero fraction of mmat: 15520/16641 or 7760/8256
+ calc_mmat 2.20 s
+ calc_e circs to run: 127
+ calc_e 1.04 s
+ calc_e2 circs to run: 7443
+ calc_e2 21.64 s
+ calc_v_pd circs to run: 16383
+ calc_v_pd 47.93 s
+ initial mcLachlan distance: 1.04e-02 pthmax: 1.15
+ calc_poolh circs to run: 112084
+ calc_poolh 337.12 s
+ eval_vpool 337.13 s
+ calc_mmat_pt circs to run: 140481
+ eval_mmat_pt 472.62 s
+ add op: [96]
+ grad: ['-0.004003']
+icyc = 0, dist = 1.02e-02, improving 2.30e-04
+ add op: [608]
+ grad: ['-0.235228']
+icyc = 1, dist = 1.00e-02, improving 2.18e-04
+ get_mv circs done: 1088
+ number of layers in the ansatz: 131
+ final mcLachlan distance: 1.00e-02
+ add_ops 813.55 s
+ total nontrivial mcircs: 1548
+ pthmax: 1.30
+ Zero mmat elements: 7969/8515
+ one_step 886.38 s
+ ngates: [1, 130, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 49, t = 0.8196, e = -4.49906336, vmax = 2.59e-01 var_h = 2.62e+00
+
+ calc_mmat circs to run: 1548
+ zero fraction of mmat: 15938/17161 or 7969/8515
+ calc_mmat 3.00 s
+ calc_e circs to run: 127
+ calc_e 1.05 s
+ calc_e2 circs to run: 7443
+ calc_e2 22.15 s
+ calc_v_pd circs to run: 16637
+ calc_v_pd 49.81 s
+ initial mcLachlan distance: 1.05e-02 pthmax: 1.33
+ calc_poolh circs to run: 112084
+ calc_poolh 343.96 s
+ eval_vpool 343.97 s
+ calc_mmat_pt circs to run: 142659
+ eval_mmat_pt 490.56 s
+ add op: [176]
+ grad: ['0.234560']
+icyc = 0, dist = 1.03e-02, improving 2.16e-04
+ add op: [1023]
+ grad: ['0.017202']
+icyc = 1, dist = 1.02e-02, improving 1.31e-04
+ add op: [234]
+ grad: ['-0.226607']
+icyc = 2, dist = 1.00e-02, improving 1.31e-04
+ add op: [188]
+ grad: ['-0.005597']
+icyc = 3, dist = 9.93e-03, improving 1.15e-04
+ get_mv circs done: 3261
+ number of layers in the ansatz: 135
+ final mcLachlan distance: 9.93e-03
+ add_ops 846.02 s
+ total nontrivial mcircs: 2078
+ pthmax: 1.21
+ Zero mmat elements: 8423/9045
+ one_step 923.06 s
+ ngates: [1, 134, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 50, t = 0.8362, e = -4.57912973, vmax = 2.58e-01 var_h = 2.58e+00
+
+ calc_mmat circs to run: 2078
+ zero fraction of mmat: 16846/18225 or 8423/9045
+ calc_mmat 3.48 s
+ calc_e circs to run: 127
+ calc_e 1.15 s
+ calc_e2 circs to run: 7443
+ calc_e2 23.58 s
+ calc_v_pd circs to run: 17145
+ calc_v_pd 52.97 s
+ initial mcLachlan distance: 1.05e-02 pthmax: 1.22
+ calc_poolh circs to run: 112084
+ calc_poolh 365.38 s
+ eval_vpool 365.39 s
+ calc_mmat_pt circs to run: 147015
+ eval_mmat_pt 533.56 s
+ add op: [494]
+ grad: ['0.001230']
+icyc = 0, dist = 1.04e-02, improving 8.92e-05
+ add op: [538]
+ grad: ['-0.230847']
+icyc = 1, dist = 1.03e-02, improving 1.10e-04
+ add op: [81]
+ grad: ['-0.225918']
+icyc = 2, dist = 1.02e-02, improving 8.02e-05
+ add op: [68]
+ grad: ['-0.001021']
+icyc = 3, dist = 1.02e-02, improving 6.45e-05
+ add op: [516]
+ grad: ['0.022626']
+icyc = 4, dist = 1.01e-02, improving 5.18e-05
+ add op: [393]
+ grad: ['-0.230740']
+icyc = 5, dist = 1.01e-02, improving 4.75e-05
+ add op: [57]
+ grad: ['0.225505']
+icyc = 6, dist = 1.00e-02, improving 3.95e-05
+ add op: [214]
+ grad: ['-0.232383']
+icyc = 7, dist = 1.00e-02, improving 3.52e-05
+ add op: [132]
+ grad: ['-0.160831']
+icyc = 8, dist = 9.97e-03, improving 3.19e-05
+ get_mv circs done: 8676
+ number of layers in the ansatz: 144
+ final mcLachlan distance: 9.97e-03
+ add_ops 931.40 s
+ total nontrivial mcircs: 3329
+ pthmax: 1.11
+ Zero mmat elements: 9480/10296
+ one_step 1015.12 s
+ ngates: [1, 143, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 51, t = 0.8543, e = -4.66399421, vmax = 2.58e-01 var_h = 2.54e+00
+
+ calc_mmat circs to run: 3329
+ zero fraction of mmat: 18906/20736 or 9453/10296
+ calc_mmat 5.63 s
+ calc_e circs to run: 127
+ calc_e 1.23 s
+ calc_e2 circs to run: 7443
+ calc_e2 25.80 s
+ calc_v_pd circs to run: 18288
+ calc_v_pd 64.43 s
+ initial mcLachlan distance: 1.06e-02 pthmax: 1.05
+ calc_poolh circs to run: 112084
+ calc_poolh 404.14 s
+ eval_vpool 404.14 s
+ calc_mmat_pt circs to run: 156816
+ eval_mmat_pt 622.90 s
+ add op: [561]
+ grad: ['-0.024380']
+icyc = 0, dist = 1.05e-02, improving 7.88e-05
+ add op: [708]
+ grad: ['0.169407']
+icyc = 1, dist = 1.05e-02, improving 3.40e-05
+ add op: [788]
+ grad: ['-0.168971']
+icyc = 2, dist = 1.04e-02, improving 8.26e-05
+ add op: [608]
+ grad: ['-0.230335']
+icyc = 3, dist = 1.04e-02, improving 3.24e-05
+ add op: [41]
+ grad: ['-0.156127']
+icyc = 4, dist = 1.03e-02, improving 3.08e-05
+ add op: [44]
+ grad: ['-0.162785']
+icyc = 5, dist = 1.03e-02, improving 3.02e-05
+ add op: [932]
+ grad: ['-0.176663']
+icyc = 6, dist = 1.03e-02, improving 3.15e-05
+ add op: [38]
+ grad: ['-0.014743']
+icyc = 7, dist = 1.03e-02, improving 2.98e-05
+ add op: [88]
+ grad: ['-0.000842']
+icyc = 8, dist = 1.02e-02, improving 2.69e-05
+ add op: [28]
+ grad: ['-0.128633']
+icyc = 9, dist = 1.02e-02, improving 2.17e-05
+ add op: [554]
+ grad: ['-0.026585']
+icyc = 10, dist = 1.02e-02, improving 2.08e-05
+ add op: [131]
+ grad: ['0.155290']
+icyc = 11, dist = 1.02e-02, improving 1.94e-05
+ add op: [142]
+ grad: ['-0.157152']
+icyc = 12, dist = 1.01e-02, improving 4.47e-05
+ add op: [10]
+ grad: ['0.157815']
+icyc = 13, dist = 1.01e-02, improving 2.25e-05
+ add op: [81]
+ grad: ['-0.223641']
+icyc = 14, dist = 1.01e-02, improving 2.01e-05
+ add op: [96]
+ grad: ['-0.004696']
+icyc = 15, dist = 1.01e-02, improving 2.28e-05
+ add op: [656]
+ grad: ['0.023795']
+icyc = 16, dist = 1.00e-02, improving 1.73e-05
+ add op: [600]
+ grad: ['-0.230004']
+icyc = 17, dist = 1.00e-02, improving 1.86e-05
+ add op: [1074]
+ grad: ['0.002058']
+icyc = 18, dist = 1.00e-02, improving 1.67e-05
+ add op: [374]
+ grad: ['0.002058']
+icyc = 19, dist = 8.01e-03, improving 1.99e-03
+ get_mv circs done: 20501
+ number of layers in the ansatz: 164
+ final mcLachlan distance: 8.01e-03
+ add_ops 1112.10 s
+ total nontrivial mcircs: 6399
+ pthmax: 0.85
+ Zero mmat elements: 12105/13366
+ one_step 1215.46 s
+ ngates: [3, 161, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 52, t = 0.8743, e = -4.75520242, vmax = 2.57e-01 var_h = 2.50e+00
+
+ calc_mmat circs to run: 6399
+ zero fraction of mmat: 23924/26896 or 11962/13366
+ calc_mmat 13.07 s
+ calc_e circs to run: 127
+ calc_e 1.57 s
+ calc_e2 circs to run: 7443
+ calc_e2 30.47 s
+ calc_v_pd circs to run: 20828
+ calc_v_pd 85.97 s
+ initial mcLachlan distance: 8.38e-03 pthmax: 1.01
+ Zero mmat elements: 11962/13366
+ one_step 131.09 s
+ ngates: [3, 161, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 53, t = 0.8941, e = -4.85437393, vmax = 2.56e-01 var_h = 2.45e+00
+
+ calc_mmat circs to run: 6399
+ zero fraction of mmat: 23910/26896 or 11955/13366
+ calc_mmat 11.66 s
+ calc_e circs to run: 127
+ calc_e 1.56 s
+ calc_e2 circs to run: 7443
+ calc_e2 30.84 s
+ calc_v_pd circs to run: 20828
+ calc_v_pd 86.05 s
+ initial mcLachlan distance: 8.62e-03 pthmax: 1.28
+ Zero mmat elements: 11955/13366
+ one_step 130.12 s
+ ngates: [3, 161, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 54, t = 0.9097, e = -4.95074929, vmax = 2.55e-01 var_h = 2.41e+00
+
+ calc_mmat circs to run: 6399
+ zero fraction of mmat: 23908/26896 or 11954/13366
+ calc_mmat 11.56 s
+ calc_e circs to run: 127
+ calc_e 1.53 s
+ calc_e2 circs to run: 7443
+ calc_e2 30.75 s
+ calc_v_pd circs to run: 20828
+ calc_v_pd 86.11 s
+ initial mcLachlan distance: 8.63e-03 pthmax: 1.62
+ Zero mmat elements: 11954/13366
+ one_step 129.95 s
+ ngates: [3, 161, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 55, t = 0.9221, e = -5.02549648, vmax = 2.54e-01 var_h = 2.37e+00
+
+ calc_mmat circs to run: 6399
+ zero fraction of mmat: 23908/26896 or 11954/13366
+ calc_mmat 11.54 s
+ calc_e circs to run: 127
+ calc_e 1.50 s
+ calc_e2 circs to run: 7443
+ calc_e2 30.84 s
+ calc_v_pd circs to run: 20828
+ calc_v_pd 85.64 s
+ initial mcLachlan distance: 8.58e-03 pthmax: 1.77
+ Zero mmat elements: 11954/13366
+ total nontrivial mcircs: 1412
+ one_step 132.11 s
+ ngates: [3, 161, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 56, t = 0.9334, e = -5.08367293, vmax = 2.53e-01 var_h = 2.34e+00
+
+ calc_mmat circs to run: 1412
+ zero fraction of mmat: 23908/26896 or 11954/13366
+ calc_mmat 2.77 s
+ calc_e circs to run: 127
+ calc_e 1.49 s
+ calc_e2 circs to run: 7443
+ calc_e2 30.52 s
+ calc_v_pd circs to run: 20828
+ calc_v_pd 85.63 s
+ initial mcLachlan distance: 8.58e-03 pthmax: 1.80
+ Zero mmat elements: 11954/13366
+ one_step 120.41 s
+ ngates: [3, 161, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 57, t = 0.9445, e = -5.13622181, vmax = 2.53e-01 var_h = 2.32e+00
+
+ calc_mmat circs to run: 1412
+ zero fraction of mmat: 23908/26896 or 11954/13366
+ calc_mmat 2.70 s
+ calc_e circs to run: 127
+ calc_e 1.46 s
+ calc_e2 circs to run: 7443
+ calc_e2 30.56 s
+ calc_v_pd circs to run: 20828
+ calc_v_pd 85.71 s
+ initial mcLachlan distance: 8.65e-03 pthmax: 1.75
+ Zero mmat elements: 11954/13366
+ one_step 120.43 s
+ ngates: [3, 161, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 58, t = 0.9559, e = -5.18744684, vmax = 2.52e-01 var_h = 2.29e+00
+
+ calc_mmat circs to run: 1412
+ zero fraction of mmat: 23908/26896 or 11954/13366
+ calc_mmat 2.70 s
+ calc_e circs to run: 127
+ calc_e 1.51 s
+ calc_e2 circs to run: 7443
+ calc_e2 30.60 s
+ calc_v_pd circs to run: 20828
+ calc_v_pd 85.62 s
+ initial mcLachlan distance: 8.79e-03 pthmax: 1.67
+ Zero mmat elements: 11954/13366
+ one_step 120.43 s
+ ngates: [3, 161, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 59, t = 0.9679, e = -5.23940755, vmax = 2.51e-01 var_h = 2.27e+00
+
+ calc_mmat circs to run: 1412
+ zero fraction of mmat: 23908/26896 or 11954/13366
+ calc_mmat 2.65 s
+ calc_e circs to run: 127
+ calc_e 1.47 s
+ calc_e2 circs to run: 7443
+ calc_e2 30.66 s
+ calc_v_pd circs to run: 20828
+ calc_v_pd 85.85 s
+ initial mcLachlan distance: 9.00e-03 pthmax: 1.57
+ Zero mmat elements: 11954/13366
+ one_step 120.64 s
+ ngates: [3, 161, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 60, t = 0.9806, e = -5.29330936, vmax = 2.50e-01 var_h = 2.24e+00
+
+ calc_mmat circs to run: 1412
+ zero fraction of mmat: 23908/26896 or 11954/13366
+ calc_mmat 2.64 s
+ calc_e circs to run: 127
+ calc_e 1.45 s
+ calc_e2 circs to run: 7443
+ calc_e2 30.61 s
+ calc_v_pd circs to run: 20828
+ calc_v_pd 85.78 s
+ initial mcLachlan distance: 9.28e-03 pthmax: 1.46
+ Zero mmat elements: 11954/13366
+ one_step 120.48 s
+ ngates: [3, 161, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 61, t = 0.9939, e = -5.34994256, vmax = 2.50e-01 var_h = 2.21e+00
+
+ calc_mmat circs to run: 1412
+ zero fraction of mmat: 23908/26896 or 11954/13366
+ calc_mmat 2.62 s
+ calc_e circs to run: 127
+ calc_e 1.48 s
+ calc_e2 circs to run: 7443
+ calc_e2 30.56 s
+ calc_v_pd circs to run: 20828
+ calc_v_pd 85.80 s
+ initial mcLachlan distance: 9.61e-03 pthmax: 1.36
+ Zero mmat elements: 11954/13366
+ one_step 120.47 s
+ ngates: [3, 161, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 62, t = 0.9984, e = -5.40801048, vmax = 2.49e-01 var_h = 2.18e+00
+
+ calc_mmat circs to run: 1412
+ zero fraction of mmat: 23908/26896 or 11954/13366
+ calc_mmat 2.65 s
+ calc_e circs to run: 127
+ calc_e 1.50 s
+ calc_e2 circs to run: 7443
+ calc_e2 30.54 s
+ calc_v_pd circs to run: 20828
+ calc_v_pd 85.93 s
+ initial mcLachlan distance: 9.73e-03 pthmax: 1.33
+ Zero mmat elements: 11954/13366
+ one_step 120.63 s
+ ngates: [3, 161, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 63, t = 0.9996, e = -5.42753150, vmax = 2.48e-01 var_h = 2.17e+00
+
+ calc_mmat circs to run: 1412
+ zero fraction of mmat: 23908/26896 or 11954/13366
+ calc_mmat 2.63 s
+ calc_e circs to run: 127
+ calc_e 1.49 s
+ calc_e2 circs to run: 7443
+ calc_e2 30.71 s
+ calc_v_pd circs to run: 20828
+ calc_v_pd 85.64 s
+ initial mcLachlan distance: 9.76e-03 pthmax: 1.32
+ Zero mmat elements: 11954/13366
+ one_step 120.47 s
+ ngates: [3, 161, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 64, t = 0.9999, e = -5.43278843, vmax = 2.48e-01 var_h = 2.17e+00
+
+ calc_mmat circs to run: 1412
+ zero fraction of mmat: 23908/26896 or 11954/13366
+ calc_mmat 2.63 s
+ calc_e circs to run: 127
+ calc_e 1.47 s
+ calc_e2 circs to run: 7443
+ calc_e2 30.68 s
+ calc_v_pd circs to run: 20828
+ calc_v_pd 86.00 s
+ initial mcLachlan distance: 9.77e-03 pthmax: 1.32
+ Zero mmat elements: 11954/13366
+ one_step 120.79 s
+ ngates: [3, 161, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 65, t = 1.0000, e = -5.43409030, vmax = 2.48e-01 var_h = 2.17e+00
+
+ calc_mmat circs to run: 1412
+ zero fraction of mmat: 23908/26896 or 11954/13366
+ calc_mmat 2.62 s
+ calc_e circs to run: 127
+ calc_e 1.50 s
+ calc_e2 circs to run: 7443
+ calc_e2 30.47 s
+ calc_v_pd circs to run: 20828
+ calc_v_pd 85.57 s
+ initial mcLachlan distance: 9.77e-03 pthmax: 1.32
+ Zero mmat elements: 11954/13366
+ one_step 120.17 s
+ ngates: [3, 161, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 66, t = 1.0000, e = -5.43440539, vmax = 2.48e-01 var_h = 2.17e+00
+
+ calc_mmat circs to run: 1412
+ zero fraction of mmat: 23908/26896 or 11954/13366
+ calc_mmat 2.66 s
+ calc_e circs to run: 127
+ calc_e 1.45 s
+ calc_e2 circs to run: 7443
+ calc_e2 30.71 s
+ calc_v_pd circs to run: 20828
+ calc_v_pd 85.38 s
+ initial mcLachlan distance: 9.77e-03 pthmax: 1.32
+ Zero mmat elements: 11954/13366
+ one_step 120.21 s
+ ngates: [3, 161, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 67, t = 1.0000, e = -5.43448116, vmax = 2.48e-01 var_h = 2.17e+00
+
+ calc_mmat circs to run: 1412
+ zero fraction of mmat: 23908/26896 or 11954/13366
+ calc_mmat 2.64 s
+ calc_e circs to run: 127
+ calc_e 1.47 s
+ calc_e2 circs to run: 7443
+ calc_e2 30.48 s
+ calc_v_pd circs to run: 20828
+ calc_v_pd 85.93 s
+ initial mcLachlan distance: 9.77e-03 pthmax: 1.32
+ Zero mmat elements: 11954/13366
+ one_step 120.54 s
+ ngates: [3, 161, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 68, t = 1.0000, e = -5.43449937, vmax = 2.48e-01 var_h = 2.17e+00
+
+ calc_mmat circs to run: 1412
+ zero fraction of mmat: 23908/26896 or 11954/13366
+ calc_mmat 2.63 s
+ calc_e circs to run: 127
+ calc_e 1.46 s
+ calc_e2 circs to run: 7443
+ calc_e2 30.52 s
+ calc_v_pd circs to run: 20828
+ calc_v_pd 85.52 s
+ initial mcLachlan distance: 9.77e-03 pthmax: 1.32
+ Zero mmat elements: 11954/13366
+ one_step 120.13 s
+ ngates: [3, 161, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+iter = 69, t = 1.0000, e = -5.43450374, vmax = 2.48e-01 var_h = 2.17e+00
+
+total layers in ansatz: 164
+ run 21026.66 s
+costs: -5.434503742421545
