@@ -21,6 +21,7 @@ Code and data for tensor-network simulations presented in [Minimally Entangled T
 
 - **Yongxin Yao** ([@yaoyongxin](https://github.com/yaoyongxin))
 - **Aleksei Khindanov** ([@khindanov](https://github.com/khindanov))
+- **Thomas Iadecola**
 
 ## Repository Description
 
