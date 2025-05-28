@@ -17,6 +17,11 @@ Code and data for tensor-network simulations presented in [Minimally Entangled T
       url={https://arxiv.org/abs/2407.11949}, 
 }
 ```
+## Authors
+
+- **Yongxin Yao** ([@yaoyongxin](https://github.com/yaoyongxin))
+- **Aleksei Khindanov** ([@khindanov](https://github.com/khindanov))
+
 ## Repository Description
 
 - ``run.py`` is a runner script to perform simulations using `avqite` package.
