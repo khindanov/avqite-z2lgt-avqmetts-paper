@@ -29,7 +29,7 @@ parser.add_argument(
     "-m",
     "--maxadd",
     type=int,
-    default=5,
+    default=100,
     help="Max. allowed unitaries to be added at one iteration. dflt: 5.",
 )
 parser.add_argument(
@@ -94,7 +94,7 @@ parser.add_argument(
     "--tmax", type=float, default=1e7, help="Maximal time for simulations. dflt: 1e7"
 )
 parser.add_argument(
-    "--tf", type=float, default=numpy.inf, help="Final time. dflt: numpy.inf."
+    "--tf", type=float, default=1.0, help="Final time. dflt: numpy.inf."
 )
 parser.add_argument(
     "-md",
