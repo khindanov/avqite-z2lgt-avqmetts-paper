@@ -2,7 +2,6 @@
 Code and data for tensor-network simulations presented in [Minimally Entangled Typical Thermal States for Classical and Quantum Simulation of 1+1-Dimensional $\mathbb{Z}_2$ Lattice Gauge Theory at Finite Temperature and Density](https://arxiv.org/abs/2407.11949). These simulations are performed using [``avqite``](https://github.com/khindanov/avqite) package, which is a tensor-network implementation of the Adaptive Variational Quantum Imaginary-Time Evolution (AVQITE) algorithm.
 
 ## Citation
-Please cite as:
 ```
 @misc{chen2025,
       title={Minimally Entangled Typical Thermal States for Classical and Quantum Simulation of 1+1-Dimensional $\mathbb Z_2$ Lattice Gauge Theory at Finite Temperature and Density}, 
